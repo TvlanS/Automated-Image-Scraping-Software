@@ -18,4 +18,4 @@ My endeavor to learn a new language has led to the realization that learning new
 
 **Technology:** Python ,BingImage API ,Tkinter .
 
-**Code :**[`Repo Link`](https://github.com/TvlanS/Automated-Image-Scraping-Software/blob/main/GUI%20img%20generator.py)
+**Code :**[`Repo Link`](https://github.com/TvlanS/Automated-Image-Scraping-Software/tree/main)
