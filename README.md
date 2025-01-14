@@ -14,8 +14,8 @@ My endeavor to learn a new language has led to the realization that learning new
 5.	Automatically positions itself in the corner of the screen, avoiding visual clutter.
 
 
-**Media:**[`System Images`](https://github.com/TvlanS/Web-Based-Utilities-Equipment-Data-Management-System/tree/main/Media)
+**Media:**[`System Images`]()
 
 **Technology:** Python ,BingImage API ,Tkinter .
 
-**Code :**[`Repo Link`](https://github.com/TvlanS/Web-Based-Utilities-Equipment-Data-Management-System)
+**Code :**[`Repo Link`](https://github.com/TvlanS/Automated-Image-Scraping-Software/blob/main/GUI%20img%20generator.py)
