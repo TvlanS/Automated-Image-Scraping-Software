@@ -10,7 +10,7 @@ My endeavor to learn a new language has led to the realization that learning new
 1.	An intuitive UI.
 2.	A small window that allows for a seamless transition to other software.
 3.	Automatic image resizing.
-4.	Sticks to the display, eliminating the need to toggle the software back to the window while multitasking.
+4.	Sticks to display, eliminating the need to toggle the software back to the window while multitasking.
 5.	Automatically positions itself in the corner of the screen, avoiding visual clutter.
 
 
